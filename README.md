@@ -19,4 +19,14 @@ This cheat menu will allow you to, well, cheat, in every blooket game. this menu
 
 
                 *****MUST READ*******
-                Refreshing the page WILL remove the menu, all you got to do is go through the steps above again. in order for the menu to work.
+               1. Refreshing the page WILL remove the menu,
+                   all you got to do is go through the steps above again
+                      in order for the menu to work.
+
+
+            2. If this does not work for you, try check to see if you added anything 
+            extra to the end of the code. the code's last lind should end in  })();.
+
+
+
+            ENJOY!!!!!!
